@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(234, 234, 234);
+    margin-right: 600px;
+}
+
+h1 {
+    color: rgb(207, 51, 45);
+}
+
+p {
+    color: rgb(150, 150, 150);
+}
+
+.grijs {
+    color: grey
+}
+
+.button {
+    background-color: rgb(228, 35, 79);
+    border-radius: 2px;
+    padding: 10px;
+    width: 70px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: left;
+}
